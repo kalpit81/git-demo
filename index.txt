@@ -1,0 +1,1 @@
+This is the git local exercise to learn commands.
