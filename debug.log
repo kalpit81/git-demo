@@ -1,0 +1,8 @@
+This is the git local exercise to learn commands.
+
+1) git add <filename> command tracks the changes to staging area
+2) git commit -m "message text" commits the file to Git Repo
+3) git commit -am "message text" adds and commits to git repo
+
+This file is a copy of index.txt
+
