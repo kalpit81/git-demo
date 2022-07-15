@@ -6,3 +6,5 @@ This is the git local exercise to learn commands.
 
 This file is a copy of index.txt
 
+Making few changes to learn how to push changes from local to remote.
+
